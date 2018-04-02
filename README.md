@@ -1,14 +1,10 @@
-# Re:Source [Lifesaver](public/lifesaver.png)
+# Re:Source
 
 ## A resource management app for disaster relief teams
 
 Re:Source is a final group project built in one week by a team of 5 developers as part of Enspiral Dev Academy's bootcamp programme.
 
 This is an app to manage essential resources such as food, water, shelter in different disaster centers. A team leader at a location can immediately see the current stock of essential resources and increase or decrease supplies as needed. 
-
-We want to use progressive web app because we want to be able to see stock items in low connectivity situations. 
-
-Stretch goal: it would be great to apply this app to volunteer human resources too (e.g. dispatching medically trained staff to a disaster center).
 
 ### To run this app:
 
